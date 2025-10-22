@@ -73,16 +73,21 @@ Here are 5 test cases used to verify the system, formatted as (Misspelled -> Cor
 
 1.  "I receievd your mail"
     Misspelled: receievd
+    Suggestion: recieved
 
-2.  "Hello Worled"
-    Misspelled: Worled.
+3.  "Hello Worled"
+    Misspelled: Worled
+    Suggestion: World
 
-3.  "this is tets cases"
+5.  "this is tets cases"
     Misspelled: tets
+    Suggestion: test
 
-4.  "i helpd you"
+7.  "i helpd you"
     Misspelled: helpd
+    Suggestion: helped
     
-5.  "you are very sucesful"
+9.  "you are very sucesful"
     Misspelled: sucesful
+    Suggestion: successful
 
